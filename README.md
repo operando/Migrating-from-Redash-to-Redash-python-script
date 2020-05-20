@@ -42,3 +42,8 @@ python redash_migrator.py
 ## Base script
 
 https://gist.github.com/arikfr/e1c01f6c04d8348da52f33393b5bf65d
+
+
+## Achievement
+
+- transition from Redash 6.0.0+b8536 to Redash 8.0.0+b32245
