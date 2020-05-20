@@ -15,7 +15,7 @@ Migrate your data using Redash API.
 
 - Original Redash instance URL and admin api key
 - Destination Redash instance URL and admin api key
-- [Optional] data sources mapping
+- Data sources mapping
   - origin Redash data source id -> destination Redash data source id
 
 
