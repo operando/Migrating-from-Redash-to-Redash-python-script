@@ -10,6 +10,8 @@ Migrating from Redash to Redash python script.
 
 Migrate your data using Redash API.
 
+Release info(Japanese) https://note.com/operando_os/n/n8bfa8e32a694
+
 
 ## Setup(Write redash_migrator.py)
 
